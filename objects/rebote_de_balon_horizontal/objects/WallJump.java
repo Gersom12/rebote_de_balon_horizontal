@@ -17,11 +17,17 @@ public class WallJump extends Circle{
 	@Override
 	public void DetectarPared()
 	{
-		if(posicionX+tamaño > 800)
+			
+		
+		if(posicionX+tamaño> 800)
 			{
-				Rebotar();
-				CambiarColor();
+			
+					Rebotar();
+			        CambiarColor();
+					
 			}
+		
+			
 	}
 	
 	public void Rebotar(){

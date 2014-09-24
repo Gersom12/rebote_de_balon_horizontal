@@ -38,7 +38,9 @@ public class Circle {
 	public void AplicarPared()
 	{
 		velocidadX += Pared;
-	}
+	
+			}
+	
 	
  	public void Draw (Graphics g){		 
  		
