@@ -1,4 +1,4 @@
-package rebote_de_balon_horizontal;
+package rebote_de_balon_horizontal.objects;
 
 import java.awt.Color;
 import java.awt.Graphics;
